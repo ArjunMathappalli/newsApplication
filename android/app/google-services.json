@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086155755447",
+    "project_id": "newsapi-firebase-app",
+    "storage_bucket": "newsapi-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086155755447:android:8cb979cbb0e31420b5e232",
+        "android_client_info": {
+          "package_name": "com.arjunwork.newsapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGiLKVu5pFOdzltyNZv5rnK5z-ZlOIXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
